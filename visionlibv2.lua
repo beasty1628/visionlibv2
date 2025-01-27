@@ -1368,7 +1368,7 @@ function Library:Create(options)
 
 					KeySystem["a9"]["AnchorPoint"] = Vector2.new(0.5, 0.5)
 					KeySystem["a9"]["Size"] = UDim2.new(0.949999988079071, 0, 0.800000011920929, 0)
-					KeySystem["a9"]["Text"] = [[Note: Join our discord to get the key!]]
+					KeySystem["a9"]["Text"] = [[Note: Key Link Copied To Clipboard!]]
 					KeySystem["a9"]["Font"] = Enum.Font.Gotham
 					KeySystem["a9"]["BackgroundTransparency"] = 1
 					KeySystem["a9"]["Position"] = UDim2.new(0.5, 0, 0.5, 0)
